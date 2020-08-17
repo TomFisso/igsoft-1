@@ -4,6 +4,6 @@ Repositorio para trabajo práctico final Ingeniera Software 2019 - UCEL - segund
 # Version: 1.0.0
 
 # Integrantes
-- Ferraciti Silvana
+- Ferracuti Silvana
 - Fissore Tomás
 - Villegas Jorge Luis
